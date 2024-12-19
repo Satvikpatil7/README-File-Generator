@@ -1,3 +1,4 @@
+README File Generator
 Project Description
 This Python script automates the creation of README.md files for projects. It collects details like project name, description, technologies used, installation instructions, usage, and license information from the user. The script then generates a standardized README file and saves it to the specified directory, ensuring consistency across project documentation.
 
@@ -10,14 +11,8 @@ Technologies Used
 Python
 Linux
 Installation Instructions
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/README-Generator.git
-Navigate to the project directory:
-bash
-Copy code
-cd README-Generator
+Clone the repository to your local machine.
+Navigate to the project directory.
 Usage Instructions
 Run the script:
 bash
@@ -26,4 +21,4 @@ python3 generate_readme.py
 Follow the prompts to enter your project details (e.g., name, description, technologies, etc.).
 The README file will be generated in the specified location.
 License
-This project is licensed under the MIT License.# README-File-Generator
+This project is licensed under the MIT License.
